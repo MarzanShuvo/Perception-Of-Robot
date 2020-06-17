@@ -1,17 +1,18 @@
 # Perception-Of-Robot
 
-## self driving car perception coursera python
+## Self Driving Car perception coursera python
 
-I have learned how to work with 
+This course has covered the followings:
+
 * the pinhole camera model 
 * perform intrinsic and extrinsic camera calibration
 * detection of object and estimation of depth using two camera
 * describe and match image features 
 * design convolutional neural networks.
 
-## perception robotics matlab coursera
+## Robotic Perception matlab coursera
 
-After finishing this course, i have learned about
+This course has covered the followings:
 
 * Geometry of Image Formation
 * Projective Transformations
