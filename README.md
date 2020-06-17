@@ -5,7 +5,7 @@
 I have learned how to work with 
 * the pinhole camera model 
 * perform intrinsic and extrinsic camera calibration
-* detect 
+* detection of object and estimation of depth using two camera
 * describe and match image features 
 * design convolutional neural networks.
 
@@ -17,6 +17,8 @@ After finishing this course, i have learned about
 * Projective Transformations
 * Pose Estimation
 * Multi-View Geometry
+
+
 
 
 
